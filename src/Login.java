@@ -6,7 +6,7 @@ public class Login {
 
 		Scanner scanner=new Scanner(System.in);
 		
-		
+		// Asking user to enter the first name
 		System.out.println("Enter your first name :");
 		String FirstName=scanner.nextLine();
 		
