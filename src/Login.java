@@ -14,7 +14,7 @@ public class Login {
 		System.out.println("Enter your Last name");
 		String LastName=scanner.nextLine();
 		
-		
+		// Asking user to input the company domain
 		System.out.println("Enter your company domain (E.g hamk.fi)");
 		String domain=scanner.nextLine();
 		
