@@ -18,7 +18,7 @@ public class Login {
 		System.out.println("Enter your company domain (E.g hamk.fi)");
 		String domain=scanner.nextLine();
 		
-	
+	    //Checking whether the First name and last name empty
 		if(FirstName.isEmpty()||LastName.isEmpty())
 		{
 			System.out.println("Oops..First name, Last name or both missing.");
